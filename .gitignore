@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+*.sqlite
+*.db
+*.csv
+
+# Configuración local
+.env
+*.swp
+
+# Compilados o binarios
+*.o
+*.exe
+*.out
+
+# Archivos de backup
+*~
